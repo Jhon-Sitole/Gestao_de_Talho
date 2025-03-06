@@ -1,0 +1,19 @@
+name: gestao_de_talho
+description: Sistema de gestão de talho em Flutter Web e Mobile.
+publish_to: "none"
+
+environment:
+  sdk: ">=3.0.0 <4.0.0" # Versão mínima do Dart
+
+dependencies:
+  flutter:
+    sdk: flutter
+  go_router: ^13.1.0 # Para navegação SPA
+
+dev_dependencies:
+  flutter_lints: ^5.0.0 # Boas práticas de código
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/logo_icon.png
