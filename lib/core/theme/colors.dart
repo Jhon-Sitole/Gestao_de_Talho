@@ -5,4 +5,5 @@ class AppColors {
   static const Color textColor = Colors.black; // Cor padrão do texto
   static const Color backgroundColor = Colors.white; // Fundo branco
   static const Color borderColor = Color.fromARGB(255, 222, 220, 220); // Cor das bordas
+  static const Color sectionBackground = Color(0xFFF0F0F0); // Cor do fundo dos cabeçalhos das seções
 }
